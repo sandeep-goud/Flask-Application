@@ -14,3 +14,12 @@ python3 -m venv env-name
 ```
 pip3 install -r requirement.txt
 ```
+
+- Run script 
+```
+python3 index.py
+```
+- open Browser and type below url
+```
+http://localhost:55000/app/filename?start=3&end=9
+```
